@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Mukis Tycho
+Bundle-SymbolicName: de.mukis.ui
+Bundle-Version: 0.0.1.qualifier
+Bundle-Activator: de.mukis.ui.Activator
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: org.eclipse.sapphire,
+ org.eclipse.sapphire.modeling,
+ org.eclipse.sapphire.modeling.xml,
+ org.osgi.framework;version="1.6.0",
+ scala.collection;version="[2.9.2,2.9.4)"
