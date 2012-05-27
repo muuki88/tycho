@@ -5,3 +5,7 @@
 
 # Maven
 */target/*
+target/*
+
+# Scala
+*.cache
