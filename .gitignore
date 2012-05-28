@@ -9,3 +9,6 @@ target/*
 
 # Scala
 *.cache
+
+# Eclipse Sapphire APT
+.apt_generated/*
